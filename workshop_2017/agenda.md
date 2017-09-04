@@ -13,23 +13,14 @@ Educators: Axel von Kamp and Sven Thiele
 - 18:00 - End
 
 ### Day 2: 13. September
-Educators: Ursula Kummer and Frank T. Bergmann
+Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
 
 - 09:00 - Welcome
-- 09:05 
-	- Computational Modeling of Biochemical Networks using COPASI hands on
-	- the COPASI user interface
-	- importing / modifying models
+- 09:05 - Computational Modeling of Biochemical Networks using COPASI hands on
 - 10:30 - Break
-- 10:50 
-	- continuing hands on exercises
-	- setting up simulations
-	- steady state / MCA
+- 10:50 - continuing hands on exercises
 - 12:00 - Lunch break
-- 13:30 
- 	- continuing hands on exercises
-	- scans / repeats
+- 13:30 - continuing hands on exercises
 - 15:00 - Break
- 	- continuing hands on exercises
-	- parameter estimation
+- 15:20 - continuing hands on exercises
 - 17:00 - End
