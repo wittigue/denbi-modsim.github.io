@@ -19,3 +19,7 @@ It would help us a lot if you would fill out this [survey](https://goo.gl/741X7M
 * [Agenda](agenda.html)
 * [Registration](https://goo.gl/forms/2qupekDxLJZEUpHR2)
 * [de.NBI announcement](http://www.denbi.de/22-training-cat/training-courses/258-copasi-kurs)
+
+
+### Parameter Estimation
+For the parameter estimation part, we have this [archive](2017-09-12_-_COPASI_PE.zip), containing some models and data files to use during the tutorial. 
