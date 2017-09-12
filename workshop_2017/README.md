@@ -12,6 +12,9 @@ Seminar Room 42, BioQUANT, Im Neuenheimer Feld 267, 69120 Heidelberg
 
 See also: [How to get there](get_there.html)
 
+## Feedback
+It would help us a lot if you would fill out this [survey](https://goo.gl/741X7M).
+
 ### More information
 * [Agenda](agenda.html)
 * [Registration](https://goo.gl/forms/2qupekDxLJZEUpHR2)
