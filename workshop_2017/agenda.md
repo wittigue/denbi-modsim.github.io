@@ -19,8 +19,8 @@ Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
 - 09:05 - Computational Modeling of Biochemical Networks using COPASI hands on
 - 10:30 - Break
 - 10:50 - continuing hands on exercises
-- 12:00 - Lunch break
-- 13:30 - continuing hands on exercises
+- 12:30 - Lunch break
+- 14:00 - continuing hands on exercises
 - 15:00 - Break
 - 15:20 - continuing hands on exercises
 - 17:00 - End
