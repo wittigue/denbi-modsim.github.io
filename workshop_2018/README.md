@@ -1,4 +1,6 @@
 ## Tools for systems biology modeling and data exchange
+During this 3-day course, attendees will learn basic techniques for modeling of biochemical networks including data access and storage due to the FAIR principles. The first day introduces principles of stoichiometric and constraint-based modeling coupled with hands on exercises using CellNetAnalyzer. The second day continues with kinetic modeling techniques which will be illustrated and exercised with COPASI. The third day SABIO-RK is used as a resource for kinetic data and FAIRDOM Hub/SEEK is introduced as a data and model management platform fitted to the needs of systems biologists.
+The hands on exercises throughout the three days will ensure that attendees become familiar with the software tools and with analyzing, creating, editing, importing, simulating and storing biochemical networks.
 
 ### Educators: 
 Educators:
@@ -8,7 +10,7 @@ Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.
 24th April 10:00 am – 26th April 2018, 3:00pm
 
 ### Location:
-MPI Magdeburg 
+MPI Magdeburg, Sandtorstrasse 1, 39106 Magdeburg, Germany
 
 ### Accomodation
 While there is no registration fee, attendees are expected to arrange for their travel and accommodation. The following hotels are recommended: 
@@ -18,6 +20,7 @@ While there is no registration fee, attendees are expected to arrange for their 
 * [Sleep & go](https://www.hotel-sleep-and-go.de/)
 
 ### More information
+* [Detailed agenda](agenda.md)
 * [Registration](https://goo.gl/forms/8iUxUnNZrpkoaDKE2)
 * [de.NBI announcement](https://www.denbi.de/22-training-cat/training-courses/476-tools-for-systems-biology-modeling-and-data-management)
 
