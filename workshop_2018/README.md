@@ -25,7 +25,7 @@ While there is no registration fee, attendees are expected to arrange for their 
 * [de.NBI announcement](https://www.denbi.de/22-training-cat/training-courses/476-tools-for-systems-biology-modeling-and-data-management)
 
 ### Parameter Estimation
-For the parameter estimation part, we have this [archive](2018-04-23_-_COPASI_PE.zip), containing some models and data files to use during the tutorial. 
+For the parameter estimation part, we have this [archive](2018-04-23_-_COPASI_PE.zip), containing some models and data files to use during the tutorial. [Second dataset](test_modelselection.txt) for model selection of basic model. 
 
 ### Map
 
