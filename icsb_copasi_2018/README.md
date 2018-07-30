@@ -2,7 +2,7 @@
 COPASI is a widely used software tool for creating, simulating and analyzing models of biochemical reaction networks. It is open source free software and available for all major operating systems. Its features include deterministic and stochastic simulation, steady state analysis, stoichiometric analysis, optimization and parameter estimation, time scale analysis, sensitivities and metabolic control analysis, Lyapunov exponents, linear noise approximation, etc. In the workshop we will demonstrate the use of advanced features of COPASI, focusing on parameter estimation and parameter identifiability analysis, and the use of COPASI from scripting languages. The developers of COPASI will also be available for the discussion of individual questions from the participants. 
 
 ### Educators: 
-Frank T. Bergmann (Heidelberg University), Stefan Hoops (Virginia Tech), Ursula Kummer (Heidelberg University), Pedro Mendes (University of Connecticut), Jürgen Pahle (Heidelberg University), Sven Sahle (Heidelberg University) 
+Frank T. Bergmann (Heidelberg University), Abhishekh Gupta (University of Connecticut), Stefan Hoops (Virginia Tech), Ursula Kummer (Heidelberg University), Pedro Mendes (University of Connecticut), Jürgen Pahle (Heidelberg University), Sven Sahle (Heidelberg University) 
 
 ### Date:
 27th Oct 2018 1:00 pm - 6:00pm
@@ -23,5 +23,5 @@ For the parameter estimation part, we have this [archive](2018-04-23_-_COPASI_PE
 ### Map
 
 <html>
-<iframe src="https://www.google.com/maps/d/embed?mid=1XDKxfTGW-ExnZ60rTt7EK0Wjx7U&hl=fr" width="800" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1LUM0Bt4Dn8l4VcPTzOujiFMPp3ub3C89" width="800" height="480"></iframe>
 </html>
