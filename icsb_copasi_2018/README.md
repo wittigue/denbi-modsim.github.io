@@ -18,7 +18,7 @@ Main reception desk is at 46 Allée d'Italie, 69007 Lyon. Entrance for the works
 * de.NBI announcement
 
 ### Additional materials: 
-additional materials are available from our [Google Drive](https://drive.google.com/drive/u/1/folders/1vE2FQ2-6jqGeC5S1QO2bGeDQ8VAjJ5Rz)
+additional materials are available from our [Google Drive](https://drive.google.com/drive/folders/1OPQOnXOqRZHDyK32R17iQ19c2TxsfBb-)
 
 ### Parameter Estimation
 For the parameter estimation part, we have this [archive](2018-04-23_-_COPASI_PE.zip), containing some models and data files to use during the tutorial. [Second dataset](test_modelselection.txt) for model selection of basic model. 
