@@ -27,6 +27,6 @@ Download and preinstallation of COPASI and CellNetAnalyzer is recommended but no
 
 ### More information
 * [Registration](https://goo.gl/forms/6UNvjb7Amf0aZGmT2)
-* de.NBI announcement
+* [de.NBI announcement](https://www.denbi.de/training/467-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek)
 
  
