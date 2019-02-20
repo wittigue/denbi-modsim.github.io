@@ -28,10 +28,10 @@ Download and preinstallation of COPASI and CellNetAnalyzer is recommended but no
 ### Accommodation
 There are a number of hotels closeby, we recommend on of the following: 
 
--	[Ibis central station](https://de.hotels.com/ho182815/)
--	[Hotel Café Frisch](https://www.cafe-frisch.de/unser-hotel/)
--	[Hotel Central](https://de.hotels.com/ho507308)
--	[Hotel Classic Inn](https://de.hotels.com/ho294211)
+-	[Ibis central station](https://de.hotels.com/ho182815/){:target="_blank"}
+-	[Hotel Café Frisch](https://www.cafe-frisch.de/unser-hotel/){:target="_blank"}
+-	[Hotel Central](https://de.hotels.com/ho507308){:target="_blank"}
+-	[Hotel Classic Inn](https://de.hotels.com/ho294211){:target="_blank"}
 
 
 ### Fees
