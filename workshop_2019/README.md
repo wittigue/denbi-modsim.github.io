@@ -25,6 +25,19 @@ The participants should bring their own laptop with MATLAB installed (if you do 
 Download and preinstallation of COPASI and CellNetAnalyzer is recommended but not mandatory.
 
 
+### Accommodation
+There are a number of hotels closeby, we recommend on of the following: 
+
+-	[Ibis central station](https://de.hotels.com/ho182815/)
+-	[Hotel Café Frisch](https://www.cafe-frisch.de/unser-hotel/)
+-	[Hotel Central](https://de.hotels.com/ho507308)
+-	[Hotel Classic Inn](https://de.hotels.com/ho294211)
+
+
+### Fees
+There is no registration fee. 
+
+
 ### More information
 * [Registration](https://goo.gl/forms/6UNvjb7Amf0aZGmT2)
 * [de.NBI announcement](https://www.denbi.de/training/467-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek)
