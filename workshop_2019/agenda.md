@@ -1,5 +1,5 @@
 
-### Day 2: 18. March
+### Day 1: 18. March COPASI
 Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
 
 - 09:00 - Welcome
@@ -12,7 +12,7 @@ Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
 - 15:20 - continuing hands on exercises
 - 17:00 - End
 
-### Day 1: 19. March
+### Day 2: 19. March CellNetAnalyzer
 Educators: Steffen Klamt, Axel von Kamp and Sven Thiele
 
 - 10.00 - Welcome
@@ -26,7 +26,7 @@ Educators: Steffen Klamt, Axel von Kamp and Sven Thiele
 - 16:20 - Advanced calculations / Questions and open problems
 - 18:00 - End
 
-### Day 3: 26. April SABIO-RK / SEEK
+### Day 3: 20. March SABIO-RK / SEEK
 Educators: Wolfgang Müller, Maja Rey, Andreas Weidemann and Ulrike Wittig (HITS)
 
 09:00 Uhr - 15:00 Uhr
