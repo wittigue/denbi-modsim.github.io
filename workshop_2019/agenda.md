@@ -1,5 +1,19 @@
-### Day 1: 12. September
-Educators: Axel von Kamp and Sven Thiele
+
+### Day 2: 18. March
+Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
+
+- 09:00 - Welcome
+- 09:05 - Computational Modeling of Biochemical Networks using COPASI hands on
+- 10:30 - Break
+- 10:50 - continuing hands on exercises
+- 12:30 - Lunch break
+- 14:00 - continuing hands on exercises
+- 15:00 - Break
+- 15:20 - continuing hands on exercises
+- 17:00 - End
+
+### Day 1: 19. March
+Educators: Steffen Klamt, Axel von Kamp and Sven Thiele
 
 - 10.00 - Welcome
 - 10:05 - Methods of stoichiometric and constraint-based modeling
@@ -12,15 +26,7 @@ Educators: Axel von Kamp and Sven Thiele
 - 16:20 - Advanced calculations / Questions and open problems
 - 18:00 - End
 
-### Day 2: 13. September
-Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
+### Day 3: 26. April SABIO-RK / SEEK
+Educators: Wolfgang Müller, Maja Rey, Andreas Weidemann and Ulrike Wittig (HITS)
 
-- 09:00 - Welcome
-- 09:05 - Computational Modeling of Biochemical Networks using COPASI hands on
-- 10:30 - Break
-- 10:50 - continuing hands on exercises
-- 12:30 - Lunch break
-- 14:00 - continuing hands on exercises
-- 15:00 - Break
-- 15:20 - continuing hands on exercises
-- 17:00 - End
+09:00 Uhr - 15:00 Uhr
