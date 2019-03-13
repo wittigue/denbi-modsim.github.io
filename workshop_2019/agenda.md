@@ -1,32 +1,33 @@
 
-### Day 1: 18. March COPASI
-Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
+## Workshop Agenda
 
-- 10:00 - Welcome
-- 09:05 - Computational Modeling of Biochemical Networks using COPASI hands on
-- 10:30 - Break
-- 10:50 - continuing hands on exercises
-- 12:30 - Lunch break
-- 14:00 - continuing hands on exercises
-- 15:00 - Break
-- 15:20 - continuing hands on exercises
-- 17:00 - End
+* Monday (March 18): 10:00 - 17:00 COPASI
+* Tuesday (March 19): 09:30 - 18:00 CellNetAnalyzer 
+* Wednesday (March 20): 09:30 - 17:00 SABIO-RK and SEEK
 
-### Day 2: 19. March CellNetAnalyzer
-Educators: Steffen Klamt, Axel von Kamp and Sven Thiele
 
--  9.00 - Welcome
--  9:05 - Methods of stoichiometric and constraint-based modeling
-- 11:20 - Break
-- 11.40 - Methods of computational strain design
-- 12:50 - Lunch break
-- 14.30 - CellNetAnalyzer: Introduction + Live demonstration,
-          First hands-on exercises
-- 16:00 - Break
-- 16:20 - Advanced calculations / Questions and open problems
-- 18:00 - End
+[How to get to the workshop!](http://copasi.org/denbi-modsim/workshop_2019/get_there.html)
 
-### Day 3: 20. March SABIO-RK / SEEK
-Educators: Wolfgang Müller, Maja Rey, Andreas Weidemann and Ulrike Wittig (HITS)
+* Please install/download the software tools and additional material prior to the workshop:
 
-09:00 Uhr - 15:00 Uhr
+#### COPASI
+
+For the hands on session with COPASI on the first day you may download COPASI from: <http://copasi.org/Download/>
+
+#### CellNetAnalyzer
+
+- CellNetAnalyzer download: For the practical exercises on Day 2 you can download CNA from the following website.
+<https://www2.mpi-magdeburg.mpg.de/projects/cna/download.html>
+
+- MATLAB: For the practical exercises with CNA you need MATLAB.
+If you do not have access to MATLAB you may download a
+30 day trial version here:
+<https://www.mathworks.com/campaigns/products/trials.html>
+
+- additional material (slides, example files) for the CNA exercise:
+<https://drive.google.com/open?id=0B_wMqVOQLkZ3a0ZZRXZMak8zRkk>
+
+
+#### SABIO-RK
+For the SABIO-RK hands-on session on the third day you will need Python and the Python library Requests: <https://pypi.python.org/pypi/requests>
+

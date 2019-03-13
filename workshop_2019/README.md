@@ -9,6 +9,10 @@ Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
 ### Date:
 18-MAR-2019 10:00 am – 20-MAR-2019 5:00pm
 
+* Monday (March 18): 10:00 - 17:00, COPASI
+* Tuesday (March 19): 09:30 - 18:00, CellNetAnalyzer 
+* Wednesday (March 20): 09:30 - 17:00, SABIO-RK and SEEK
+
 ### Location:
 Seminar Room 42, BioQUANT, Im Neuenheimer Feld 267, 69120 Heidelberg
 
@@ -39,7 +43,8 @@ There is no registration fee.
 
 
 ### More information
-* [Registration](https://goo.gl/forms/6UNvjb7Amf0aZGmT2)
-* [de.NBI announcement](https://www.denbi.de/training/467-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek)
+* [Agenda](agenda.html)
+* [Registration](https://goo.gl/forms/6UNvjb7Amf0aZGmT2){:target="_blank"}
+* [de.NBI announcement](https://www.denbi.de/training/467-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek){:target="_blank"}
 
  

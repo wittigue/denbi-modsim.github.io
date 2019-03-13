@@ -11,7 +11,14 @@ Coming from the motorway (A 656)
 From main railway station (Hauptbahnhof):
 
 
-* Take either the tram number 24 (direction Handschuhsheim) or the number 21 (direction Technologiepark) and get off at the "Bunsengymnasium" stop.
+* Take either the tram number 24 (direction Handschuhsheim) or the number 21 (direction Technologiepark) and get off at the "Bunsengymnasium" stop. Due to the construction at the central station you have to get the tram on the west side of the central station.
+
+
+
+<html>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1543.747259097562!2d8.674599518543271!3d49.40393053124148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797c0d84168665f%3A0x3bd8c70b5e0b6acf!2sHD+Hauptbahnhof+West!5e0!3m2!1sen!2sde!4v1552471766762" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</html>
+
 
 
 From Heidelberg downtown (Bismarckplatz):
