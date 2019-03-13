@@ -2,7 +2,7 @@
 ### Day 1: 18. March COPASI
 Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
 
-- 09:00 - Welcome
+- 10:00 - Welcome
 - 09:05 - Computational Modeling of Biochemical Networks using COPASI hands on
 - 10:30 - Break
 - 10:50 - continuing hands on exercises
@@ -15,8 +15,8 @@ Educators: Ursula Kummer, Sven Sahle and Frank T. Bergmann
 ### Day 2: 19. March CellNetAnalyzer
 Educators: Steffen Klamt, Axel von Kamp and Sven Thiele
 
-- 10.00 - Welcome
-- 10:05 - Methods of stoichiometric and constraint-based modeling
+-  9.00 - Welcome
+-  9:05 - Methods of stoichiometric and constraint-based modeling
 - 11:20 - Break
 - 11.40 - Methods of computational strain design
 - 12:50 - Lunch break
