@@ -47,4 +47,5 @@ There is no registration fee.
 * [Registration](https://goo.gl/forms/6UNvjb7Amf0aZGmT2){:target="_blank"}
 * [de.NBI announcement](https://www.denbi.de/training/467-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek){:target="_blank"}
 
- 
+### COPASI Tutorial
+For the hands on exercises to the parameter estimation part, please download the following [data file](2019-03-18_-_COPASI_PE.zip).
