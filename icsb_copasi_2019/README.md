@@ -14,3 +14,6 @@ The developers of COPASI will also be available for the discussion of individual
 
 ### Location: 
 OIST, Okinawa, Japan
+
+### Registration:
+Registration will soon open on this web page...
