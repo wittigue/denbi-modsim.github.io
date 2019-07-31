@@ -13,7 +13,7 @@ The developers of COPASI will also be available for the discussion of individual
 31st Oct 2019 9:00 am - 1:00pm
 
 ### Location: 
-OIST, Okinawa, Japan
+OIST, Okinawa, Japan, Room 3
 
 ### Registration:
-Registration will soon open on this web page...
+Please register using the following [Registration Form](https://forms.gle/NepBmMjrXmTzuCpy9)
