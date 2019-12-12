@@ -18,7 +18,7 @@
       line-height: 1.8;
       color: #818181;
     }
-    
+
     h2 {
       font-size: 24px;
       text-transform: uppercase;
@@ -26,7 +26,7 @@
       font-weight: 600;
       margin-bottom: 30px;
     }
-    
+
     h4 {
       font-size: 19px;
       line-height: 1.375em;
@@ -34,58 +34,58 @@
       font-weight: 400;
       margin-bottom: 30px;
     }
-    
+
     .jumbotron {
       background-color: #1CABDA;
       color: #fff;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
     }
-    
+
     .container-fluid {
       padding: 60px 50px;
     }
-    
+
     .bg-grey {
       background-color: #f6f6f6;
     }
-    
+
     .logo-small {
       color: #1CABDA;
       font-size: 50px;
     }
-    
+
     .logo {
       color: #1CABDA;
       font-size: 200px;
     }
-    
+
     .thumbnail {
       padding: 0 0 15px 0;
       border: none;
       border-radius: 0;
     }
-    
+
     .thumbnail img {
       width: 100%;
       height: 100%;
       margin-bottom: 10px;
     }
-    
+
     .carousel-control.right,
     .carousel-control.left {
       background-image: none;
       color: #1CABDA;
     }
-    
+
     .carousel-indicators li {
       border-color: #1CABDA;
     }
-    
+
     .carousel-indicators li.active {
       background-color: #1CABDA;
     }
-    
+
     .item h4 {
       font-size: 19px;
       line-height: 1.375em;
@@ -93,27 +93,27 @@
       font-style: italic;
       margin: 70px 0;
     }
-    
+
     .item span {
       font-style: normal;
     }
-    
+
     .panel {
       border: 1px solid #1CABDA;
       border-radius: 0 !important;
       transition: box-shadow 0.5s;
     }
-    
+
     .panel:hover {
       box-shadow: 5px 0px 40px rgba(0, 0, 0, .2);
     }
-    
+
     .panel-footer .btn:hover {
       border: 1px solid #1CABDA;
       background-color: #fff !important;
       color: #1CABDA;
     }
-    
+
     .panel-heading {
       color: #fff !important;
       background-color: #1CABDA !important;
@@ -124,26 +124,26 @@
       border-bottom-left-radius: 0px;
       border-bottom-right-radius: 0px;
     }
-    
+
     .panel-footer {
       background-color: white !important;
     }
-    
+
     .panel-footer h3 {
       font-size: 32px;
     }
-    
+
     .panel-footer h4 {
       color: #aaa;
       font-size: 14px;
     }
-    
+
     .panel-footer .btn {
       margin: 15px 0;
       background-color: #1CABDA;
       color: #fff;
     }
-    
+
     .navbar {
       margin-bottom: 0;
       background-color: #1CABDA;
@@ -155,33 +155,33 @@
       border-radius: 0;
       font-family: Montserrat, sans-serif;
     }
-    
+
     .navbar li a,
     .navbar .navbar-brand {
       color: #fff !important;
     }
-    
+
     .navbar-nav li a:hover,
     .navbar-nav li.active a {
       color: #1CABDA !important;
       background-color: #fff !important;
     }
-    
+
     .navbar-default .navbar-toggle {
       border-color: transparent;
       color: #fff !important;
     }
-    
+
     footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
       color: #1CABDA;
     }
-    
+
     .slideanim {
       visibility: hidden;
     }
-    
+
     .slide {
       animation-name: slide;
       -webkit-animation-name: slide;
@@ -189,40 +189,43 @@
       -webkit-animation-duration: 1s;
       visibility: visible;
     }
-    
+
     @keyframes slide {
       0% {
         opacity: 0;
         transform: translateY(70%);
       }
+
       100% {
         opacity: 1;
         transform: translateY(0%);
       }
     }
-    
+
     @-webkit-keyframes slide {
       0% {
         opacity: 0;
         -webkit-transform: translateY(70%);
       }
+
       100% {
         opacity: 1;
         -webkit-transform: translateY(0%);
       }
     }
-    
+
     @media screen and (max-width: 768px) {
       .col-sm-4 {
         text-align: center;
         margin: 25px 0;
       }
+
       .btn-lg {
         width: 100%;
         margin-bottom: 35px;
       }
     }
-    
+
     @media screen and (max-width: 480px) {
       .logo {
         font-size: 150px;
@@ -237,10 +240,10 @@
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
         <a class="navbar-brand hidden-sm" href="#myPage">de.NBI ModSim</a>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
@@ -270,12 +273,17 @@
         <h4>Resources, Services and Developments for Systems Biology Modeling.</h4><br>
         <p>de.NBI-ModSim is a partner project of de.NBI-SysBio node and has three major goals: </p>
         <ol>
-          <li>Adding new resources to de.NBI: in particular, COPASI and CellNetAnalyzer, two complementary and frequently used software packages for modeling biological networks and systems will be promoted by de.NBI-ModSim.</li>
-          <li>Providing services: extended user support and organization of workshops and training courses on mathematical modeling of biological systems including hands-on exercises with the software tools</li>
-          <li>de.NBI-relevant developments: for example, integration of COPASI and CellNetAnalyzer with existing resources of de.NBI and make these tools compliant with model standardization and annotation schemes propagated by the de.NBI-SysBio node. </li>
-        
+          <li>Adding new resources to de.NBI: in particular, COPASI and CellNetAnalyzer, two complementary and
+            frequently used software packages for modeling biological networks and systems will be promoted by
+            de.NBI-ModSim.</li>
+          <li>Providing services: extended user support and organization of workshops and training courses on
+            mathematical modeling of biological systems including hands-on exercises with the software tools</li>
+          <li>de.NBI-relevant developments: for example, integration of COPASI and CellNetAnalyzer with existing
+            resources of de.NBI and make these tools compliant with model standardization and annotation schemes
+            propagated by the de.NBI-SysBio node. </li>
+
         </ol>
-        
+
         <br><a href="http://www.denbi.de" target="_blank" class="btn btn-default btn-lg">More about de.NBI</a>
       </div>
       <div class="col-sm-4">
@@ -289,43 +297,68 @@
     </div>
   </div>
 
-  <div  id="events" class="container-fluid bg-grey">
+  <div id="events" class="container-fluid bg-grey">
     <div class="row">
       <div class="col-sm-4">
         <span class="glyphicon glyphicon-globe logo slideanim"></span>
       </div>
       <div class="col-sm-8">
         <h2>Events</h2><br>
+        <p> The following events are scheduled for 2020:</p>
+        <ul>
+          <li><span style="font-weight:bold;">27. - 29. April, 2019:
+            </span> 3-day workshop in Magdeburg (with
+            CellNetAnalyzer, COPASI and SABIO RK hands-on exercises)
+            <a href="http://denbi-modsim.de/workshop_2020/" target="_blank">more information</a> |
+            <!-- <a href="https://goo.gl/forms/6UNvjb7Amf0aZGmT2" target="_blank">registration</a> -->
+          </li>
+        </ul>
         <p> The following events are scheduled for 2019:</p>
         <ul>
-        <li><span style="font-weight:bold;">31. Oct, 2019: </span> Advanced modeling with COPASI
-            <a href="http://denbi-modsim.de/icsb_copasi_2019/" target="_blank">more information</a> | <a href="https://forms.gle/NepBmMjrXmTzuCpy9" target="_blank">registration</a>
-        </li>
-        <li><span style="font-weight:bold;">15. Okt, 2019: </span> Analyzing and redesigning metabolic networks with CellNetAnalyzer - FOSBE <a href="https://www.denbi.de/training/677-analyzing-and-redesigning-metabolic-networks-with-cellnetanalyzer" target="_blank">more information</a> </li>
-        <li><span style="font-weight:bold;">12. Aug, 2019: </span> Analyzing metabolic networks with CellNetAnalyzer - MPA <a href="https://www.denbi.de/training/630-analyzing-metabolic-networks-with-cellnetanalyzer-mpa" target="_blank">more information</a> </li>
-        <li><span style="font-weight:bold;">18. - 20. Mar, 2019: </span> 3-day workshop in Heidelberg (with CellNetAnalyzer, COPASI and SABIO RK hands-on exercises)
-            <a href="http://denbi-modsim.de/workshop_2019/" target="_blank">more information</a> | <a href="https://goo.gl/forms/6UNvjb7Amf0aZGmT2" target="_blank">registration</a>
-        </li>
+          <li><span style="font-weight:bold;">31. Oct, 2019: </span> Advanced modeling with COPASI
+            <a href="http://denbi-modsim.de/icsb_copasi_2019/" target="_blank">more information</a> | <a
+              href="https://forms.gle/NepBmMjrXmTzuCpy9" target="_blank">registration</a>
+          </li>
+          <li><span style="font-weight:bold;">15. Okt, 2019: </span> Analyzing and redesigning metabolic networks with
+            CellNetAnalyzer - FOSBE <a
+              href="https://www.denbi.de/training/677-analyzing-and-redesigning-metabolic-networks-with-cellnetanalyzer"
+              target="_blank">more information</a> </li>
+          <li><span style="font-weight:bold;">12. Aug, 2019: </span> Analyzing metabolic networks with CellNetAnalyzer -
+            MPA <a href="https://www.denbi.de/training/630-analyzing-metabolic-networks-with-cellnetanalyzer-mpa"
+              target="_blank">more information</a> </li>
+          <li><span style="font-weight:bold;">18. - 20. Mar, 2019: </span> 3-day workshop in Heidelberg (with
+            CellNetAnalyzer, COPASI and SABIO RK hands-on exercises)
+            <a href="http://denbi-modsim.de/workshop_2019/" target="_blank">more information</a> | <a
+              href="https://goo.gl/forms/6UNvjb7Amf0aZGmT2" target="_blank">registration</a>
+          </li>
         </ul>
         <p> The following events are scheduled for 2018:</p>
         <ul>
-        <li><span style="font-weight:bold;">27. Oct, 2018: </span> Advanced modeling with COPASI
-            <a href="http://denbi-modsim.de/icsb_copasi_2018/" target="_blank">more information</a> | <a href="https://goo.gl/forms/BDLwkCyLwoHlj59P2" target="_blank">registration</a>
-        </li>
-        <li><span style="font-weight:bold;">27. Oct, 2018: </span> COMBINE & de.NBI Tutorial: Modelling and Simulation Tools in Systems Biology
+          <li><span style="font-weight:bold;">27. Oct, 2018: </span> Advanced modeling with COPASI
+            <a href="http://denbi-modsim.de/icsb_copasi_2018/" target="_blank">more information</a> | <a
+              href="https://goo.gl/forms/BDLwkCyLwoHlj59P2" target="_blank">registration</a>
+          </li>
+          <li><span style="font-weight:bold;">27. Oct, 2018: </span> COMBINE & de.NBI Tutorial: Modelling and Simulation
+            Tools in Systems Biology
             <a href="http://co.mbine.org/events/tutorial2018" target="_blank">more information</a>
-        </li>
-        <li><span style="font-weight:bold;">24. - 26. Apr, 2018: </span> 3-day workshop in Magdeburg (with CellNetAnalyzer, COPASI and SABIO RK hands-on exercises)
-            <a href="http://denbi-modsim.de/workshop_2018/" target="_blank">more information</a> | <a href="https://goo.gl/forms/8iUxUnNZrpkoaDKE2" target="_blank">registration</a>
-        </li>
+          </li>
+          <li><span style="font-weight:bold;">24. - 26. Apr, 2018: </span> 3-day workshop in Magdeburg (with
+            CellNetAnalyzer, COPASI and SABIO RK hands-on exercises)
+            <a href="http://denbi-modsim.de/workshop_2018/" target="_blank">more information</a> | <a
+              href="https://goo.gl/forms/8iUxUnNZrpkoaDKE2" target="_blank">registration</a>
+          </li>
         </ul>
         <p> The following events are scheduled for 2017:</p>
         <ul>
-        <li><span style="font-weight:bold;">12. / 13. September, 2017: </span>  2-days workshop (with COPASI and CellNetAnalyzer hands-on exercises)
+          <li><span style="font-weight:bold;">12. / 13. September, 2017: </span> 2-days workshop (with COPASI and
+            CellNetAnalyzer hands-on exercises)
             <a href="http://denbi-modsim.de/workshop_2017/" target="_blank">more information</a>
-        </li>
-        <li><span style="font-weight:bold;">August 6, 2017:</span>joint COMBINE Tutorial ICSB 2017 (Blacksburg, VA) <a href="http://www.denbi.de/22-training-cat/training-courses/351-icsb2017" target="_blank">more information</a></li>
-        <li><span style="font-weight:bold;">August 7, 2017:</span>Advanced COPASI Tutorial at ICSB 2017 (Blacksburg, VA)</li>
+          </li>
+          <li><span style="font-weight:bold;">August 6, 2017:</span>joint COMBINE Tutorial ICSB 2017 (Blacksburg, VA) <a
+              href="http://www.denbi.de/22-training-cat/training-courses/351-icsb2017" target="_blank">more
+              information</a></li>
+          <li><span style="font-weight:bold;">August 7, 2017:</span>Advanced COPASI Tutorial at ICSB 2017 (Blacksburg,
+            VA)</li>
         </ul>
       </div>
     </div>
@@ -334,14 +367,16 @@
   <!-- Container (COPASI Section) -->
   <div id="copasi" class="container-fluid text-left">
     <h2>COPASI</h2>
-    <h4>COPASI is a software tool for editing, simulating, and analyzing models of biochemical reaction networks. COPASI is available
+    <h4>COPASI is a software tool for editing, simulating, and analyzing models of biochemical reaction networks. COPASI
+      is available
       for all major platforms (Linux, Windows, OS X), easy to install COPASI is free and open source software.
     </h4>
     <p>
-    <a href="http://www.copasi.org" target="_blank" class="btn btn-default btn-lg">COPASI Website</a>
-    <a href="https://groups.google.com/forum/#!forum/copasi-user-forum" target="_blank" class="btn btn-default btn-lg">User Forum</a>
+      <a href="http://www.copasi.org" target="_blank" class="btn btn-default btn-lg">COPASI Website</a>
+      <a href="https://groups.google.com/forum/#!forum/copasi-user-forum" target="_blank"
+        class="btn btn-default btn-lg">User Forum</a>
     </p>
-    <br/>
+    <br />
     <ul class="nav nav-tabs">
       <li class="active"><a data-toggle="tab" href="#features">Features</a></li>
       <li><a data-toggle="tab" href="#usage">Usage</a></li>
@@ -362,13 +397,14 @@
           <li>COPASI is SBML compatible</li>
           <li>Standards, e.g. for model annotations are implemented</li>
         </ul>
-        <p> A <a href="http://copasi.org/Support/Features/" target="_blank"> complete list of features </a> is available on the COPASI website. </p> 
+        <p> A <a href="http://copasi.org/Support/Features/" target="_blank"> complete list of features </a> is available
+          on the COPASI website. </p>
       </div>
       <div id="usage" class="tab-pane fade">
         <h3>Usage of COPASI - global view</h3>
         <img alt="COPASI - global usage map" src="images/usage_copasi_global.jpg" class="img-responsive" />
-        <p>Note: only approx. 30% of the publications, 
-          having used COPASI have been included so far. 
+        <p>Note: only approx. 30% of the publications,
+          having used COPASI have been included so far.
           For more information see <a href="http://copasi.org/Research/Map/" target="_blank"> the live page </a>.
         </p>
       </div>
@@ -376,8 +412,10 @@
         <h3>Support</h3>
 
         <ul>
-          <li><a href="https://groups.google.com/forum/#!forum/copasi-user-forum" target="_blank"> COPASI User Forum </a> for feedback from developers and the community. </li>
-          <li><a href="http://tracker.copasi.org" target="_blank"> COPASI Bug Tracker </a> to file feature requests. </li>
+          <li><a href="https://groups.google.com/forum/#!forum/copasi-user-forum" target="_blank"> COPASI User Forum
+            </a> for feedback from developers and the community. </li>
+          <li><a href="http://tracker.copasi.org" target="_blank"> COPASI Bug Tracker </a> to file feature requests.
+          </li>
         </ul>
 
         <h3>Training</h3>
@@ -396,14 +434,18 @@
   <!-- Container (CellNetAnalyzer Section) -->
   <div id="cna" class="container-fluid text-left bg-grey">
     <h2>CellNetAnalyzer</h2>
-    <h4>CellNetAnalyzer (CNA) is a MATLAB toolbox providing a graphical user interface and various (partially unique) computational methods and algorithms for exploring structural and functional properties of metabolic, signaling, and regulatory networks.
+    <h4>CellNetAnalyzer (CNA) is a MATLAB toolbox providing a graphical user interface and various (partially unique)
+      computational methods and algorithms for exploring structural and functional properties of metabolic, signaling,
+      and regulatory networks.
     </h4>
     <p>
-    
-    <a href="https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html" target="_blank" class="btn btn-default btn-lg">CNA Website</a>
-    <a href="https://groups.google.com/forum/#!forum/cellnetanalyzer-user-forum" target="_blank" class="btn btn-default btn-lg">User Forum</a>
+
+      <a href="https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html" target="_blank"
+        class="btn btn-default btn-lg">CNA Website</a>
+      <a href="https://groups.google.com/forum/#!forum/cellnetanalyzer-user-forum" target="_blank"
+        class="btn btn-default btn-lg">User Forum</a>
     </p>
-    <br/>
+    <br />
     <ul class="nav nav-tabs">
       <li class="active"><a data-toggle="tab" href="#features_cna">Features</a></li>
       <li><a data-toggle="tab" href="#usage_cna">Usage</a></li>
@@ -415,27 +457,28 @@
         <h3>Features</h3>
         <p>Numerous methods and algorithms from stoichiometric and constraint-based modeling:</p>
         <ul>
-<li>conservation relations</li>
-<li>metabolic flux analysis</li>
-<li>flux balance analysis (FBA) / flux optimization</li>
-<li>flux variability analysis</li>
-<li>elementary-modes and pathway analysis</li>
-<li>minimal cut sets (design/redesign of metabolic networks)</li>
-<li>SBML import / export</li>
+          <li>conservation relations</li>
+          <li>metabolic flux analysis</li>
+          <li>flux balance analysis (FBA) / flux optimization</li>
+          <li>flux variability analysis</li>
+          <li>elementary-modes and pathway analysis</li>
+          <li>minimal cut sets (design/redesign of metabolic networks)</li>
+          <li>SBML import / export</li>
 
         </ul>
         <p>Support for influence graphs / boolean networks including :</p>
         <ul>
-<li>logical steady-sate analysis (qualitative I/O behvaior)</li>
-<li>minimal intervention sets</li>
-<li>feedback loops and signaling paths</li>
-<li>global interdependency of species</li>
-<li>data-driven inference of signaling network toplogies</li>
-<li>simulation of logic-based ODEs (ODEfy)</li>
-<li>Support of the SBML Level 3 Qual extension</li>
+          <li>logical steady-sate analysis (qualitative I/O behvaior)</li>
+          <li>minimal intervention sets</li>
+          <li>feedback loops and signaling paths</li>
+          <li>global interdependency of species</li>
+          <li>data-driven inference of signaling network toplogies</li>
+          <li>simulation of logic-based ODEs (ODEfy)</li>
+          <li>Support of the SBML Level 3 Qual extension</li>
         </ul>
-        <p> for a <a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/description.html" target="_blank"> detailed description </a> of CellNetAnalyzer's 
-            capabilities please see the CNA website. </p>
+        <p> for a <a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/description.html" target="_blank"> detailed
+            description </a> of CellNetAnalyzer's
+          capabilities please see the CNA website. </p>
       </div>
       <div id="usage_cna" class="tab-pane fade">
         <h3>Usage of CellNetAnalyzer - global view</h3>
@@ -445,15 +488,20 @@
         <h3>Support</h3>
 
         <ul>
-          <li><a href="https://groups.google.com/forum/#!forum/cellnetanalyzer-user-forum" target="_blank"> CNA User Forum </a> for feedback from developers and the community. </li>
+          <li><a href="https://groups.google.com/forum/#!forum/cellnetanalyzer-user-forum" target="_blank"> CNA User
+              Forum </a> for feedback from developers and the community. </li>
         </ul>
 
         <h3>Training</h3>
-        <ul>          
-          <li><a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/description.html" target="_blank"> Detailed Description </a> </li>
-          <li><a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/manual_cellnetanalyzer.pdf" target="_blank"> Manual </a> </li>
-          <li><a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/CNA_tutorial.pdf" target="_blank"> Tutorial </a> </li>
-          <li><a href="https://www.youtube.com/playlist?list=PLvcqZyZHMRRR7ZUg0_yyFKMK5VJLB4Cj1" target="_blank"> Videos on Youtube</a> </li>
+        <ul>
+          <li><a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/description.html" target="_blank"> Detailed
+              Description </a> </li>
+          <li><a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/manual_cellnetanalyzer.pdf" target="_blank"> Manual
+            </a> </li>
+          <li><a href="http://www2.mpi-magdeburg.mpg.de/projects/cna/CNA_tutorial.pdf" target="_blank"> Tutorial </a>
+          </li>
+          <li><a href="https://www.youtube.com/playlist?list=PLvcqZyZHMRRR7ZUg0_yyFKMK5VJLB4Cj1" target="_blank"> Videos
+              on Youtube</a> </li>
         </ul>
       </div>
     </div>
@@ -477,15 +525,18 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img alt="timecourse simulation in COPASI" src="images/copasi_screenshot1.png" class="img-responsive center-block" />
+          <img alt="timecourse simulation in COPASI" src="images/copasi_screenshot1.png"
+            class="img-responsive center-block" />
           <p>Model overview / time course simulation in COPASI</p>
         </div>
         <div class="item">
-          <img alt="constraint-based modelling in CellNetAnalyzer" src="images/metnet.gif" class="img-responsive center-block" />
+          <img alt="constraint-based modelling in CellNetAnalyzer" src="images/metnet.gif"
+            class="img-responsive center-block" />
           <p>stoichiometric / constraint-based modelling in CellNetAnalyzer</p>
         </div>
         <div class="item">
-          <img alt="influence graphs / boolean networks in CellNetAnalyzer" src="images/signet_egf.gif" class="img-responsive center-block" />
+          <img alt="influence graphs / boolean networks in CellNetAnalyzer" src="images/signet_egf.gif"
+            class="img-responsive center-block" />
           <p>influence graphs / boolean networks in CellNetAnalyzer</p>
         </div>
       </div>
@@ -493,7 +544,7 @@
       <br>
       <br>
       <br>
-      
+
       <!-- Left and right controls -->
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -506,69 +557,72 @@
     </div>
   </div>
 
-   <div id="contact" class="container-fluid text-left bg-grey">
+  <div id="contact" class="container-fluid text-left bg-grey">
     <h2>Contact</h2>
     <div class="row">
       <div class="col-sm-5 well">
-        <p><a href="http://www.cos.uni-heidelberg.de/index.php/u.kummer?l=_e" target="_blank">Prof Dr. Ursula Kummer</a></p>
-        <p>INF 267<br/>69120 Heidelberg<br/><br/></p>
+        <p><a href="http://www.cos.uni-heidelberg.de/index.php/u.kummer?l=_e" target="_blank">Prof Dr. Ursula Kummer</a>
+        </p>
+        <p>INF 267<br />69120 Heidelberg<br /><br /></p>
         <p>ursula.kummer @ bioquant.uni-heidelberg.de</p>
       </div>
       <div class="col-sm-2"></div>
       <div class="col-sm-5 well">
         <p><a href="http://www.mpi-magdeburg.mpg.de/klamt" target="_blank">Steffen Klamt</a></p>
-        <p>Max Planck Institute for Dynamics of Complex Technical Systems<br/>Sandtorstr. 1<br/>D-39106 Magdeburg Germany</p>
+        <p>Max Planck Institute for Dynamics of Complex Technical Systems<br />Sandtorstr. 1<br />D-39106 Magdeburg
+          Germany</p>
         <p>klamt @ mpi-magdeburg.mpg.de
       </div>
     </div>
-      
-   </div>
+
+  </div>
 
   <footer class="container-fluid text-center">
     <a href="#myPage" title="To Top">
       <span class="glyphicon glyphicon-chevron-up"></span>
     </a>
     <div class="row">
-      <div class="col-sm-6"><img alt="logo BMBF" src="images/bundesministerium_fuer_bildung_und_forschung.jpg" height="80" /></div>
+      <div class="col-sm-6"><img alt="logo BMBF" src="images/bundesministerium_fuer_bildung_und_forschung.jpg"
+          height="80" /></div>
       <div class="col-sm-6"><img alt="logo PTJ" src="images/projekttraeger_juelich.jpg" height="80" /></div>
     </div>
   </footer>
 
   <script>
-$(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+    $(document).ready(function () {
+      // Add smooth scrolling to all links in navbar + footer link
+      $(".navbar a, footer a[href='#myPage']").on('click', function (event) {
 
-    // Prevent default anchor click behavior
-    event.preventDefault();
+        // Prevent default anchor click behavior
+        event.preventDefault();
 
-    // Store hash
-    var hash = this.hash;
+        // Store hash
+        var hash = this.hash;
 
-    // Using jQuery's animate() method to add smooth page scroll
-    // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-    $('html, body').animate({
-      scrollTop: $(hash).offset().top
-    }, 900, function(){
-   
-      // Add hash (#) to URL when done scrolling (default click behavior)
-      window.location.hash = hash;
-    });
-  });
-  
-  // Slide in elements on scroll
-  $(window).scroll(function() {
-    $(".slideanim").each(function(){
-      var pos = $(this).offset().top;
+        // Using jQuery's animate() method to add smooth page scroll
+        // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 900, function () {
 
-      var winTop = $(window).scrollTop();
-        if (pos < winTop + 600) {
-          $(this).addClass("slide");
-        }
-    });
-  });
-})
-</script>
+          // Add hash (#) to URL when done scrolling (default click behavior)
+          window.location.hash = hash;
+        });
+      });
+
+      // Slide in elements on scroll
+      $(window).scroll(function () {
+        $(".slideanim").each(function () {
+          var pos = $(this).offset().top;
+
+          var winTop = $(window).scrollTop();
+          if (pos < winTop + 600) {
+            $(this).addClass("slide");
+          }
+        });
+      });
+    })
+  </script>
 
 </body>
 
