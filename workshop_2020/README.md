@@ -22,7 +22,7 @@ While there is no registration fee, attendees are expected to arrange for their 
 
 ### More information
 * [Detailed agenda](agenda.md)
-* [Registration](https://goo.gl/forms/8iUxUnNZrpkoaDKE2)
+* [Registration](https://forms.gle/fdzfatVhvKzESDVN9)
 * [de.NBI announcement](https://www.denbi.de/22-training-cat/training-courses/476-tools-for-systems-biology-modeling-and-data-management)
 
 ### Parameter Estimation
