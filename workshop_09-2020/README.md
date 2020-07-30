@@ -12,7 +12,7 @@ Educators:
 Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.NBI-SysBio), Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
 
 ### Date:
-21st Sep 10:00 am – 23rd Sep 2020, 4:00pm)
+21st Sep 10:00 am – 23rd Sep 2020, 4:00pm
 
 ### Location:
 Online **OR** MPI Magdeburg, Sandtorstrasse 1, 39106 Magdeburg, Germany
