@@ -15,7 +15,7 @@ Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.
 21st Sep 9:30 am (CEST / UTC+2) – 23rd Sep 2020, 4:00pm
 
 ### Location:
-Zoom Meeting, url to be posted here later.
+Zoom Meeting, url was sent out to all participants.
 
 ### More information
 * [Detailed agenda](agenda.md)
