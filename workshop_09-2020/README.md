@@ -15,12 +15,18 @@ Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.
 21st Sep 9:30 am (CEST / UTC+2) – 23rd Sep 2020, 4:00pm
 
 ### Location:
-Zoom Meeting, url was sent out to all participants.
+Zoom Meeting, [Meeting Url](https://zoom.us/j/93910531052) for password see your email.
 
 ### More information
 * [Detailed agenda](agenda.md)
 * [Registration](https://forms.gle/VRi97qKQ7gWWSCxb9)
 * [de.NBI announcement](https://www.denbi.de/training/761-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek-2020)
 
-### Parameter Estimation
-For the parameter estimation part, we have this [archive](2018-04-23_-_COPASI_PE.zip), containing some models and data files to use during the tutorial. [Second dataset](test_modelselection.txt) for model selection of basic model. 
+
+
+### COPASI
+
+ * for the modelling session, you will be asked to download 
+   [BioModel #64](https://www.ebi.ac.uk/biomodels/BIOMD0000000064), for your convenience it is also available [here](). 
+ * For the parameter estimation part, we have this [archive](2020-09-22_-_Copasi_PE), containing some models and data files to use during the tutorial.
+ 
