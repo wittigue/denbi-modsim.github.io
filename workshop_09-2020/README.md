@@ -27,6 +27,6 @@ Zoom Meeting, [Meeting Url](https://zoom.us/j/93910531052) for password see your
 ### COPASI
 
  * for the modelling session, you will be asked to download 
-   [BioModel #64](https://www.ebi.ac.uk/biomodels/BIOMD0000000064), for your convenience it is also available [here](). 
- * For the parameter estimation part, we have this [archive](2020-09-22_-_Copasi_PE), containing some models and data files to use during the tutorial.
+   [BioModel #64](https://www.ebi.ac.uk/biomodels/BIOMD0000000064), for your convenience it is also available [here](BIOMD0000000064_url.xml). 
+ * For the parameter estimation part, we have this [archive](2020-09-22_-_Copasi_PE.zip), containing some models and data files to use during the tutorial.
  
