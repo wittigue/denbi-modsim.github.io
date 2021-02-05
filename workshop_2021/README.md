@@ -19,7 +19,7 @@ Zoom Meeting, Meeting Url and password TBA.
 
 ### More information
 * [Detailed agenda](agenda.md)
-* [Registration](#)
+* [Registration](https://forms.gle/Ni3QcTuEpEumgk8U9)
 * [de.NBI announcement](https://www.denbi.de/training/1155-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek-2021)
 
 
