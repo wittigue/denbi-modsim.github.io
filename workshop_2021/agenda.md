@@ -4,7 +4,7 @@ All times in CEST / UTC + 2
 
 09:30am - 5:00pm
 
-*Educators: Steffen Klamt, Axel von Kamp and Sven Thiele*
+*Educators: Steffen Klamt, Axel von Kamp and Sven Thiele (MPI Magdeburg)*
 
 
 ### Day 2: 21st Apr: COPASI
@@ -15,7 +15,7 @@ All times in CEST / UTC + 2
 - lunch break:          12-1pm
 - virtual coffee break: 2:30pm-250pm
 
-*Educators: Ursula Kummer and Frank T. Bergmann*
+*Educators: Ursula Kummer and Frank T. Bergmann (Heidelberg University)*
 
 
 

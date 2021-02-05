@@ -3,13 +3,13 @@ During this 3-day course, attendees will learn basic techniques for modeling of 
 
 **Given the current situation, the workshop will be held as a virtual meeting (online course). We will send around a zoom link in the week prior to the workshop.**
 
-Prerequisites: Some knowledge of mathematical modeling will be advantageous. The participants should have MATLAB installed (if you do not have MATLAB please let us know during registration, so we can send you information on how to obtain a trial license). 
+Prerequisites: Some knowledge of mathematical modeling will be advantageous. The participants should have MATLAB and Python (including the "requests" package) installed. If you do not have MATLAB please let us know during registration, so we can send you information on how to obtain a trial license.
 
 
 
 ### Educators: 
 Educators:
-Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.NBI-SysBio), Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
+Steffen Klamt, Axel von Kamp, Sven Thiele (MPI Magdeburg), Ursula Kummer, Frank T. Bergmann (Heidelberg University), Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
 
 ### Date:
 20th APR 9:30 am (CEST / UTC+2) – 22nd Apr 2021, 4:00pm
