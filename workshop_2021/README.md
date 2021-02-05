@@ -12,15 +12,15 @@ Educators:
 Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.NBI-SysBio), Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
 
 ### Date:
-20th APR 9:30 am (CEST / UTC+2) – 22nd Apr 2020, 4:00pm
+20th APR 9:30 am (CEST / UTC+2) – 22nd Apr 2021, 4:00pm
 
 ### Location:
 Zoom Meeting, Meeting Url and password TBA.
 
 ### More information
 * [Detailed agenda](agenda.md)
-* [Registration](https://forms.gle/VRi97qKQ7gWWSCxb9)
-* [de.NBI announcement](https://www.denbi.de/training/761-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek-2020)
+* [Registration](#)
+* [de.NBI announcement](https://www.denbi.de/training/1155-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek-2021)
 
 
 
