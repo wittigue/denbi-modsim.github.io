@@ -4,7 +4,7 @@ All times in CEST / UTC + 2
 
 09:30am - 5:00pm
 
-*Educators: Steffen Klamt, Axel von Kamp and Sven Thiele (MPI Magdeburg)*
+*Educators: Steffen Klamt, Axel von Kamp, Sven Thiele, Philipp Schneider and Pavlos Bekiaris (MPI Magdeburg)*
 
 
 ### Day 2: 21st Apr: COPASI

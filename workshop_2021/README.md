@@ -9,7 +9,7 @@ Prerequisites: Some knowledge of mathematical modeling will be advantageous. The
 
 ### Educators: 
 Educators:
-Steffen Klamt, Axel von Kamp, Sven Thiele (MPI Magdeburg), Ursula Kummer, Frank T. Bergmann (Heidelberg University), Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
+Steffen Klamt, Axel von Kamp, Sven Thiele, Philipp Schneider, Pavlos Bekiaris (MPI Magdeburg), Ursula Kummer, Frank T. Bergmann (Heidelberg University), Maja Rey, Andreas Weidemann, Ulrike Wittig, Wolfgang Müller (HITS)
 
 ### Date:
 20th APR 9:30 am (CEST / UTC+2) – 22nd Apr 2021, 4:00pm
