@@ -15,7 +15,7 @@ Steffen Klamt, Axel von Kamp, Sven Thiele, Philipp Schneider, Pavlos Bekiaris (M
 20th APR 9:30 am (CEST / UTC+2) – 22nd Apr 2021, 4:00pm
 
 ### Location:
-Zoom Meeting, Meeting Url and password TBA.
+Zoom Meeting, Meeting Url and password sent out via mail.
 
 ### More information
 * [Detailed agenda](agenda.md)
@@ -28,5 +28,5 @@ Zoom Meeting, Meeting Url and password TBA.
 
  * for the modeling session, you will be asked to download 
    [BioModel #64](https://www.ebi.ac.uk/biomodels/BIOMD0000000064), for your convenience it is also available [here](BIOMD0000000064_url.xml). 
- * For the parameter estimation part, we have this [archive](2020-09-22_-_Copasi_PE.zip), containing some models and data files to use during the tutorial.
+ * For the parameter estimation part, we have this [archive](2021-04-20_-_COPASI_PE.zip), containing some models and data files to use during the tutorial.
  
