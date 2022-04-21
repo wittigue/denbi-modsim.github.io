@@ -1,26 +1,39 @@
-All times in CEST / UTC + 2
 
-### Day 1: 21st Sep: CellNetAnalyzer
+## Workshop Agenda
 
-09:30am - 5:00pm
-
-*Educators: Steffen Klamt, Axel von Kamp and Sven Thiele*
-
-
-### Day 2: 22nd Sep COPASI
-
-09:30am - 5:00pm
-
-- virtual coffee break: 10:30am-10:40am
-- lunch break:          12-1pm
-- virtual coffee break: 2:30pm-250pm
-
-*Educators: Ursula Kummer and Frank T. Bergmann*
+* Tuesday (Sep 27th): 10:00 - 17:00 COPASI
+* Wednesday (Sep 28th): 09:30 - 18:00 CellNetAnalyzer 
+* Thursday (Sep 29th): 09:30 - 17:00 SABIO-RK and SEEK
 
 
+[How to get to the workshop!](get_there.html)
 
-### Day 3: 23rd Sep SABIO-RK / SEEK
+* Please install/download the software tools and additional material prior to the workshop:
 
-9:30am - 5:00pm
+#### COPASI
 
-*Educators:  Wolfgang Müller, Maja Rey, Andreas Weidemann and Ulrike Wittig (HITS)*
+For the hands on session with COPASI on the first day you may download COPASI from: <http://copasi.org/Download/>
+
+
+ * for the modelling session, you will be asked to download 
+   [BioModel #64](https://www.ebi.ac.uk/biomodels/BIOMD0000000064), for your convenience it is also available [here](BIOMD0000000064_url.xml). 
+ * For the parameter estimation part, we have this [archive](2020-09-22_-_Copasi_PE.zip), containing some models and data files to use during the tutorial.
+ 
+
+#### CellNetAnalyzer
+
+- CellNetAnalyzer download: For the practical exercises on Day 2 you can download CNA from the following website.
+<https://www2.mpi-magdeburg.mpg.de/projects/cna/download.html>
+
+- MATLAB: For the practical exercises with CNA you need MATLAB.
+If you do not have access to MATLAB you may download a
+30 day trial version here:
+<https://www.mathworks.com/campaigns/products/trials.html>
+
+- additional material (slides, example files) for the CNA exercise:
+<https://drive.google.com/open?id=0B_wMqVOQLkZ3a0ZZRXZMak8zRkk>
+
+
+#### SABIO-RK
+For the SABIO-RK hands-on session on the third day you will need Python and the Python library Requests: <https://pypi.python.org/pypi/requests>
+
