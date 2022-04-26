@@ -20,5 +20,5 @@ See also: [How to get there](get_there.html)
 
 ### More information
 * [Detailed agenda](agenda.md)
-* [Registration](#https://docs.google.com/forms/d/e/1FAIpQLSdSA314ZWw4F5wRyvXXcHc0euwx7OHODIaBj--lV-T_qRdTNA/viewform?usp=sf_link)
+* [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdSA314ZWw4F5wRyvXXcHc0euwx7OHODIaBj--lV-T_qRdTNA/viewform?usp=sf_link)
 * [de.NBI announcement](#)
