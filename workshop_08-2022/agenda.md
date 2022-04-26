@@ -1,14 +1,16 @@
 
 ## Workshop Agenda
 
-* Tuesday (Sep 27th): 10:00 - 17:00 COPASI
-* Wednesday (Sep 28th): 09:30 - 18:00 CellNetAnalyzer 
-* Thursday (Sep 29th): 09:30 - 17:00 SABIO-RK and SEEK
+* Tuesday (Aug 9th): 10:00 - 17:00 COPASI
+* Wednesday (Aug 10th): 09:30 - 18:00 CellNetAnalyzer 
+* Thursday (Aug 11th): 09:30 - 17:00 SABIO-RK and SEEK
 
 
 [How to get to the workshop!](get_there.html)
 
-* Please install/download the software tools and additional material prior to the workshop:
+### Requirements
+
+Please install/download the software tools and additional material prior to the workshop:
 
 #### COPASI
 

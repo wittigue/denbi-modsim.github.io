@@ -11,10 +11,10 @@ Educators:
 Steffen Klamt, Axel von Kamp, Sven Thiele, Ursula Kummer, Frank T. Bergmann (de.NBI-SysBio), Maja Rey, Andreas Weidemann, Ulrike Wittig (HITS)
 
 ### Date:
-Tue, 27th Sep 9:30 am (CEST / UTC+2) – 29th Sep 2022, 4:00pm
+Tue, 9th Aug 9:30 am (CEST / UTC+2) – 11th Aug 2022, 5:00pm
 
 ### Location:
-BioQUANT, Im Neuenheimer Feld 267, 69120 Heidelberg
+SR42, BioQUANT, Im Neuenheimer Feld 267, 69120 Heidelberg
 
 See also: [How to get there](get_there.html)
 
