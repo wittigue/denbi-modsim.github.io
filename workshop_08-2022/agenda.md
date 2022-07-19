@@ -1,8 +1,8 @@
 
 ## Workshop Agenda
 
-* Tuesday (Aug 9th): 10:00 - 17:00 COPASI
-* Wednesday (Aug 10th): 09:30 - 18:00 CellNetAnalyzer 
+* Tuesday (Aug 9th): 09:30 - 17:00 COPASI
+* Wednesday (Aug 10th): 09:30 - 16:00 CellNetAnalyzer 
 * Thursday (Aug 11th): 09:30 - 17:00 SABIO-RK and SEEK
 
 
