@@ -39,3 +39,4 @@ If you do not have access to MATLAB you may download a
 #### SABIO-RK
 For the SABIO-RK hands-on session on the third day you will need Python and the Python library Requests: <https://pypi.python.org/pypi/requests>
 
+For the SEEK API hands-on session you should either install [Jupyter Lab](https://jupyter.org/install) or be allowed to use [Google colab](https://colab.research.google.com/) (Jupyter hosted by Google).
