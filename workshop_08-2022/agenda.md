@@ -32,10 +32,6 @@ If you do not have access to MATLAB you may download a
 30 day trial version here:
 <https://www.mathworks.com/campaigns/products/trials.html>
 
-- additional material (slides, example files) for the CNA exercise:
-<https://drive.google.com/open?id=0B_wMqVOQLkZ3a0ZZRXZMak8zRkk>
-
-
 #### SABIO-RK
 For the SABIO-RK hands-on session on the third day you will need Python and the Python library Requests: <https://pypi.python.org/pypi/requests>
 
