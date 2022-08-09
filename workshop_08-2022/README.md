@@ -21,4 +21,5 @@ See also: [How to get there](get_there.html)
 ### More information
 * [Detailed agenda](agenda.md)
 * [Registration](https://docs.google.com/forms/d/e/1FAIpQLSdSA314ZWw4F5wRyvXXcHc0euwx7OHODIaBj--lV-T_qRdTNA/viewform?usp=sf_link)
-* [de.NBI announcement](#)
+* [de.NBI announcement](https://www.denbi.de/training/1409-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek-2022)
+* [Survey Link](https://tinyurl.com/survey-denbi-sysbio-2022)
