@@ -10,7 +10,7 @@ Educators:
 Steffen Klamt, Axel von Kamp, Pavlos Bekiaris, Ursula Kummer, Frank T. Bergmann, Maja Rey, Andreas Weidemann, Ulrike Wittig
 
 ### Date:
-Tue, 27th Nov 9:30 am (CET / UTC+1) – 30th Nov 2023, 5:00pm
+Tue, 28th Nov 9:30 am (CET / UTC+1) – 30th Nov 2023, 5:00pm
 
 ### Location:
 MPI Magdeburg, Sandtorstrasse 1, 39106 Magdeburg, Germany

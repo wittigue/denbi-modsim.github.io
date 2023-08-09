@@ -1,7 +1,7 @@
 
 ## Workshop Agenda
 
-* Tuesday (Nov 28th): 09:30 - 17:00 CellNetAnalyzer
+* Tuesday (Nov 28th): 09:30 - 17:00 CellNetAnalyzer / CNApy
 * Wednesday (Nov 28th): 09:30 - 16:00 COPASI
 * Thursday (Nov 30th): 09:30 - 17:00 SABIO-RK and SEEK
 
@@ -14,6 +14,9 @@ Please install/download the software tools and additional material prior to the 
 
 - CellNetAnalyzer download: For the practical exercises on Day 1 you can download CNA from the following website.
 <https://www2.mpi-magdeburg.mpg.de/projects/cna/download.html>
+
+- For installation of CNApy follow the instructions on: <https://github.com/cnapy-org/CNApy>.
+
 
 - MATLAB: For the practical exercises with CNA you need MATLAB.
 If you do not have access to MATLAB you may download a
