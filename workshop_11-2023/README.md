@@ -26,4 +26,4 @@ While there is no registration fee, attendees are expected to arrange for their 
 ### More information
 * [Detailed agenda](agenda.md)
 * [Registration](https://docs.google.com/forms/d/e/1FAIpQLScBXS1LfcZhcO8l2zD0jK7shs-It2_JO8HCde6vyqJ070OaMQ/viewform?usp=sf_link)
-* [de.NBI announcement](#)
+* [de.NBI announcement](https://www.denbi.de/training/1600-tools-for-systems-biology-modeling-and-data-exchange-cellnetanalyzer-copasi-sabio-rk-fairdomhub-seek-2023)

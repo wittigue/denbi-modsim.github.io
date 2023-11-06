@@ -2,7 +2,7 @@
 ## Workshop Agenda
 
 * Tuesday (Nov 28th): 09:30 - 17:00 CellNetAnalyzer / CNApy
-* Wednesday (Nov 28th): 09:30 - 16:00 COPASI
+* Wednesday (Nov 29th): 09:30 - 16:00 COPASI
 * Thursday (Nov 30th): 09:30 - 17:00 SABIO-RK and SEEK
 
 
