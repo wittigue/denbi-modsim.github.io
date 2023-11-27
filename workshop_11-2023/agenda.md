@@ -31,10 +31,10 @@ For the hands on session with COPASI on the second day you may download COPASI f
 
  * for the modelling session, you will be asked to download 
    [BioModel #64](https://www.ebi.ac.uk/biomodels/BIOMD0000000064), for your convenience it is also available [here](BIOMD0000000064_url.xml). 
- * For the parameter estimation part, we have this [archive](2022-08-09_-_Copasi_PE.zip), containing some models and data files to use during the tutorial.
+ * For the parameter estimation part, we have this [archive](2023-11-28_-_Copasi_PE.zip), containing some models and data files to use during the tutorial.
  * To wrap things up we demonstrate how to use COPASI from a python
    Scripting interface. Here is the shared 
-   [Colab Notebook](https://colab.research.google.com/drive/19qW5bsxsGjExeaJPt51k9BByJJAkfMtQ?usp=sharing), you 
+   [Colab Notebook](https://colab.research.google.com/drive/1ucqF-WiZK6S8khGU90Zp1tXLTUFqc50U?usp=sharing), you 
    can access it without Google account, however it will only allow 
    you to make changes if you are logged in. All changes I make will 
    be displayed there. 
