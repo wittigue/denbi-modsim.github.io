@@ -13,7 +13,7 @@ Please install/download the software tools and additional material prior to the 
 #### CellNetAnalyzer
 
 - CellNetAnalyzer download: For the practical exercises on Day 1 you can download CNA from the following website.
-<https://www2.mpi-magdeburg.mpg.de/projects/cna/download.html>
+<https://www2.mpi-magdeburg.mpg.de/projects/cna/cnadownload.html>
 
 - For installation of CNApy follow the instructions on: <https://github.com/cnapy-org/CNApy>.
 
