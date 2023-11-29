@@ -38,6 +38,11 @@ For the hands on session with COPASI on the second day you may download COPASI f
    can access it without Google account, however it will only allow 
    you to make changes if you are logged in. All changes I make will 
    be displayed there. 
+
+* Slides: 
+  * [Intro Modelling](denbi_sysbio_block1-4.pdf) 
+  * [Parameter Estimation](2023-11-27_-_ParameterEstimation.pdf)
+  
  
 
 #### SABIO-RK
