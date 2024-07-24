@@ -3,6 +3,12 @@
 #### Educators:
 Maja Rey, Andreas Weidemann, Ulrike Wittig
 
+#### Date:
+25-NOV-2024 2:00 pm, 26-NOV-2024 6:00pm (CEST / UTC +2)
+
+#### Location:
+Online Conferencing (Link will be provided to Registered and confirmed participants)
+
 ### Day 1:
 SABIO-RK resource for reaction kinetics data: 
  - manual/programmatic access with hands-on exercises
